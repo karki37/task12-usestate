@@ -1,0 +1,19 @@
+.counter{
+    color: white;
+    background-color: black;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:10px;
+    padding: 20px;
+
+}
+.plus, .minus, .reset{
+    font-size: 20px;
+    background-color: powderblue;
+    padding:7px;
+    margin: 1rem;
+    margin-left: 70px;   
+}
+
